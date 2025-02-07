@@ -96,15 +96,7 @@ def show_about_page():
     This is a demo version running with simulated predictions. For actual medical diagnosis, 
     please consult with healthcare professionals.
     
-    ### Dataset Information
-    The full version of this system is trained on the HAM10000 dataset, which contains 
-    dermatoscopic images of various skin lesions.
-    
-    ### Technologies Used
-    - Streamlit
-    - TensorFlow
-    - Plotly
-    - Python
+
     """)
 
 if __name__ == "__main__":
